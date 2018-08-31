@@ -17,7 +17,7 @@ This folder gives sample code (written in nodejs) to demonstrate the consuming K
 
 ## C. Execute sample code to consume Kobiton REST API
 
-Below are our sample code and how to run them. You can see our source code to see how the APIs are consumed is a specific programming language (nodejs) and then you can do the same on your own language.
+Below are our sample code and how to run them. You can see our source code to see how the APIs are consumed in a specific programming language (nodejs) and then you can do the same on your own language.
 
 ### C.1 Get sessions data
 
